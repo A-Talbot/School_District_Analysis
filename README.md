@@ -25,7 +25,7 @@ This report is an addendum to the orginal analysis of high school grades within 
 ## School District Analysis Results
 
 ### District Summary
-As displayed in the district summary below, 
+As displayed in the district summary below, after removing the Thomas High School Grade 9 math and reading scores, the **Math Score** dropped by **0.1%**, the 
 ![District Summary](Resources/District_Summary.png)
 ### School Summary
 ![School Summary](Resources/School_Summary.png)
