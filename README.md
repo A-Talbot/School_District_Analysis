@@ -20,11 +20,12 @@ This report is an addendum to the orginal analysis of high school grades within 
 ### Resources
 
 * Data sources: students_complete.csv, school_complete.csv
-* Software: Python 3.8.5, Visual Studio Code, 1.52.1
+* Software: Python 3.8.5, jupyter notebook
 
 ## School District Analysis Results
 
 ### District Summary
+As displayed in the district summary below, 
 ![District Summary](Resources/District_Summary.png)
 ### School Summary
 ![School Summary](Resources/School_Summary.png)
