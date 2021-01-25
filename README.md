@@ -40,6 +40,6 @@ This report is an addendum to the orginal analysis of high school grades within 
 ### The scores by school size
 ![Scores by School Size](Resources/Scores_Size.png)
 ### The scores by school type
-![Scores by School Type](Resources/Scores_Type.png)
+![Scores by School Type](Resources/School_Type.png)
 
 ## Summary
